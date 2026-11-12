@@ -1,0 +1,11 @@
+node_modules/
+dist/
+__pycache__/
+*.pyc
+.env
+venv/
+firebase-service-account*.json
+*-firebase-adminsdk-*.json
+career-lens-backend/local_data/
+career-lens-backend/uploads/resumes/*
+!career-lens-backend/uploads/resumes/.gitkeep
